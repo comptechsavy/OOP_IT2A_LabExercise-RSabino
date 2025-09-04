@@ -1,4 +1,4 @@
 # OOP_LabExercise_RSabino
-This is my first git repo
+This is my first repo
 <br>
-Author - comptechsavy - simplelearn
+Author - comptechsavy - 
