@@ -1,4 +1,4 @@
 # OOP_LabExercise_RSabino
-This is my first repo
+all about lab exercises
 <br>
 Author - comptechsavy - 
