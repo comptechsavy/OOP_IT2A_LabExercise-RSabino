@@ -9,7 +9,6 @@ public class Main {
         
           
         b1.displayInfo();
-        b1.setName("Pedro Penduko");
         v1.displayInfo();
         a1.displayInfo();
     }
@@ -18,5 +17,6 @@ public class Main {
     
 
     
+
 
 
