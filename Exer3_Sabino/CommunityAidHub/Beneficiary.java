@@ -1,7 +1,4 @@
-
-package CommunityAidHub;
-
-    class Beneficiary {
+class Beneficiary {
          
         private String name;
         private int age;
@@ -238,4 +235,5 @@ package CommunityAidHub;
         info += "Role: " + role + "\n";
         System.out.println(info);
     }
+
 }
