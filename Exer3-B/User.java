@@ -4,18 +4,14 @@ public class User {
     private String password;
     private String role;
 
-   
     public User(String username, String password, String role) {
         this.username = username;
         this.password = password;
         this.role = role;
     }
-
-
     public String getUsername() {
         return username;
     }
-
     public void setUsername(String username) {
         if (!username.isEmpty()) {
             this.username = username;
@@ -120,3 +116,4 @@ class Aid {
         System.out.println("Aid ID: " + id + " | " + description + " | Amount: " + amount);
     }
 }
+
